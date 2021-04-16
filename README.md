@@ -60,4 +60,3 @@ will generate docs like
 |-----------|-------------|
 | `output1` | foo         |
 ```
-
